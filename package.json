@@ -1,0 +1,26 @@
+{
+  "name": "palindrome-checker",
+  "version": "1.0.0",
+  "description": "This webpage will check a string of text and determine whether or not its a palindrome. *WIP*",
+  "main": "main.js",
+  "directories": {
+    "tests": "test"
+  },
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benbeast1210/Palindrome-Checker.git"
+  },
+  "author": "Benjamin Sams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benbeast1210/Palindrome-Checker/issues"
+  },
+  "homepage": "https://github.com/benbeast1210/Palindrome-Checker#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
